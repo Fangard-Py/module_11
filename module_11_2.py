@@ -14,5 +14,5 @@ def introspection_info(obj):
     return info
 
 
-number_info = introspection_info(1000)
+number_info = introspection_info(42)
 print(number_info)
